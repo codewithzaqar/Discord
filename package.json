@@ -1,0 +1,17 @@
+{
+  "name": "notesnook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "custom-electron-titlebar": "^4.2.8",
+    "electron": "^32.0.1",
+    "v8-compile-cache": "^2.4.0"
+  }
+}
